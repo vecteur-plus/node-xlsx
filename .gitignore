@@ -1,2 +1,5 @@
 .DS_Store
 node_modules/
+
+atlassian-ide-plugin.xml
+.idea
